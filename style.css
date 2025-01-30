@@ -104,6 +104,11 @@ ul li {
     margin-bottom: 5px;
 }
 
+#duree h3 {
+    font-family:'Times New Roman';
+    text-align: center;
+    color:slategrey;
+}
 
 figure {
     margin: 20px 0;
